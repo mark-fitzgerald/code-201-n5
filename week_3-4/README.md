@@ -1,13 +1,11 @@
-# CF-Change-course-name
+# Code 201: Foundations of Software Development
 ## Weeks 3-4 night and weekend track:
 ### Object Oriented Programming & the DOM
 **Instructors & TA's**
 
-*Lead Instructor*: CF-Change-instructor-name
+*Lead Instructor*: Mark Fitzgerald
 
-*Assistant Instructor*: CF-Change-assistant-name
-
-*TA*: CF-Change-TA-name
+*TA*: Arielle Foldore
 
 ## Week 3 - Daily Plans
 ### Class 06

@@ -1,13 +1,11 @@
-# CF-Change-course-name
+# Code 201: Foundations of Software Development
 ## Weeks 1-2 night and weekend track:
 ### Introduction to Web Development
 **Instructors & TA's**
 
-*Lead Instructor*: CF-Change-instructor-name
+*Lead Instructor*: Mark Fitzgerald
 
-*Assistant Instructor*: CF-Change-assistant-name
-
-*TA*: CF-Change-TA-name
+*TA*: Arielle Foldore
 
 ##Week 1 - Daily Plans
 ###Class 01

@@ -1,13 +1,11 @@
-# CF-Change-course-name
+# Code 201: Foundations of Software Development
 #Weeks 5-6 nights and weekend track:
 ### Interactive Web Design
 **Instructors & TA's**
 
-*Lead Instructor*: CF-Change-instructor-name
+*Lead Instructor*: Mark Fitzgerald
 
-*Assistant Instructor*: CF-Change-assistant-name
-
-*TA*: CF-Change-TA-name
+*TA*: Arielle Foldore
 
 ## Week 5 - Daily Plans
 ### Class 10
