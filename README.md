@@ -5,7 +5,7 @@ Welcome to Code 201!
 
 *Lead Instructor*: Mark Fitzgerald
 
-*TA*: Arielle Foldore
+*TA*: Arielle Foldoe
 
 # Introduction
 Build a strong software development foundation and learn how to use HTML, CSS, JavaScript, and various libraries to create fully-functional web apps.
@@ -37,11 +37,11 @@ Check out the full [Table of Contents](SUMMARY.md).
 **Week**    | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday
 -------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------
 Feb 5 - 11 | X | Class 6:30 - 9:30 | Lab 6:30 - 9:30 | Class 6:30 - 9:30 | Lab 6:30 - 9:30 | X | Class & Lab 9:00 - 6:00
-Feb 12 - 18 | X | Class 6:30 - 9:30 | X | Lab 6:30 - 9:30 | X | X | Class & Lab 9:00 - 6:00
-Feb 19 - 25 | X | Class 6:30 - 9:30 | X | Lab 6:30 - 9:30 | X | X | Class & Lab 9:00 - 6:00
-Feb 26 - Mar 4 | X | Class 6:30 - 9:30 | X | Lab 6:30 - 9:30 | X | X | Class & Lab 9:00 - 6:00
-Mar 5 - 11 | X | Class 6:30 - 9:30 | X | Lab 6:30 - 9:30 | X | X | Class & Lab 9:00 - 6:00
-Mar 12 - 17 | X | Class 6:30 - 9:30 | X | Lab 6:30 - 9:30 | X | X | Class & Lab 9:00 - 6:00
+Feb 12 - 18 | X | Class 6:30 - 9:30 | Co-Work Lab | Lab 6:30 - 9:30 | Co-Work Lab | X | Class & Lab 9:00 - 6:00
+Feb 19 - 25 | X | Class 6:30 - 9:30 | Co-Work Lab | Lab 6:30 - 9:30 | Co-Work Lab | X | Class & Lab 9:00 - 6:00
+Feb 26 - Mar 4 | X | Class 6:30 - 9:30 | Co-Work Lab | Lab 6:30 - 9:30 | Co-Work Lab | X | Class & Lab 9:00 - 6:00
+Mar 5 - 11 | X | Class 6:30 - 9:30 | Co-Work Lab | Lab 6:30 - 9:30 | Co-Work Lab | X | Class & Lab 9:00 - 6:00
+Mar 12 - 17 | X | Class 6:30 - 9:30 | Co-Work Lab | Lab 6:30 - 9:30 | Co-Work Lab | X | Class & Lab 9:00 - 6:00
 Mar 18 - 24 | X | Lab 6:30 - 9:30 | Lab 6:30 - 9:30 | Lab 6:30 - 9:30 | Lab 6:30 - 9:30 | X | Lab 9:00 - 6:00
 Mar 25 - Apr 1 | X | Lab 6:30 - 9:30 | Lab 6:30 - 9:30 | Lab 6:30 - 9:30 | Lab 6:30 - 9:30 | X | Project Presentations
 
