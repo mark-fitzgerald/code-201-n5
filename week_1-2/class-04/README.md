@@ -17,7 +17,6 @@ Today we will be expanding our javascript to include functions so that we can ex
 ## Technical Requirements
  - Updated and cleanly documented README
  - Game functionality is encapsulated in functions
- - Good use of external links to partner's repository
  - Alerts have been removed from the game, and replaced by printing answers to the DOM.
 
 ## User Stories (Stretch)
