@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="styles.css">
+    <script type="text/javascript">
+      function showName() {
+        var form = document.forms["registration"];
+        var first = form.elements["first_name"];
+        var last = form.elements["last_name"];
+        alert(first.value+" "+last.value);
+      }
+    </script>
+  </head>
+  <body>
+    <h1>Form Example</h1>
+    <form action="thank_you.html" method="post" name="registration">
+      First Name: <input type="text" name="first_name" placeholder="Just first, no last"><br>
+      Last Name: <input type="text" name="last_name"><br>
+      What's your favorite class:<br>
+      <input type="radio" name="favorite_class" value="101"> Code 101<br>
+      <input type="radio" name="favorite_class" value="201" checked> Code 201<br>
+      <input type="radio" name="favorite_class" value="301"> Code 301<br>
+      <input type="radio" name="favorite_class" value="401"> Code 401<br>
+      What's your next class:<br>
+      <select name="next_class" size="4">
+        <option value="101"> Code 101</option>
+        <option value="201"> Code 201</option>
+        <option value="301"> Code 301</option>
+        <option value="401"> Code 401</option>
+        <option value="501"> Code 501</option>
+      </select><br><br>
+      <input type="button" onclick="showName()" value="Show Name"><br><br>
+      Please tell us about yourself:<br>
+      <textarea name="bio"></textarea><br><br>
+      <input type="submit" value="Sign Me Up">
+    </form>
+  </body>
+</html>
