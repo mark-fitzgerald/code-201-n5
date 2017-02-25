@@ -1,0 +1,56 @@
+h1 {
+  color: rgb(46, 73, 103);
+  text-align: center;
+  font-family: "Lucida Grande", sans-serif;
+  font-size: 56px;
+  font-style: italic;
+}
+
+table {
+  width: 800px;
+  font-family: "Lucida Grande", Helvetica, Arial, sans-serif;
+  margin: 0 auto;
+  border-spacing: 0;
+}
+
+tr:nth-of-type(even) {
+  background-color: #daffff;
+}
+
+tr:last-of-type {
+  font-weight: bold;
+  background-color: #333333;
+  color: white;
+}
+
+th {
+  background-color: #333333;
+  padding: 5px 0;
+  color: white;f
+}
+
+th:first-of-type {
+  border-radius: 4px 0 0 0;
+}
+
+th:last-of-type {
+  border-radius: 0 4px 0 0;
+}
+
+tr:last-of-type td:first-of-type {
+  border-radius: 0 0 0 4px;
+}
+
+tr:last-of-type td:last-of-type {
+  border-radius: 0 0 4px 0;
+}
+
+td {
+  width: 25%;
+  padding: 5px 3px;
+  border-bottom: 1px solid black;
+}
+
+.email {
+  width: 50%;
+}
