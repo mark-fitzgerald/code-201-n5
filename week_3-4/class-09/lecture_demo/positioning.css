@@ -1,0 +1,40 @@
+header, nav, main {
+  border: 1px solid black;
+}
+
+header h1 {
+  text-align: center;
+}
+
+.important {
+  color: red;
+}
+
+nav {
+  width: 250px;
+  /*float: left;*/
+  display: inline-block;
+  vertical-align: top;
+  color: blue;
+}
+
+#main-menu li {
+  color: green;
+}
+
+#main-menu .important {
+  background-color: yellow;
+}
+
+main {
+  /*margin-left: 260px;*/
+  width: calc(100% - 260px);
+  display: inline-block;
+  vertical-align: top;
+}
+
+.logo {
+  height: 30px;
+  position: relative;
+  top: 10px;
+}
