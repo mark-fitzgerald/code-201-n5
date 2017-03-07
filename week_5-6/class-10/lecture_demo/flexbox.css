@@ -1,0 +1,20 @@
+section {
+  display: flex;
+  justify-content: space-between;
+}
+
+p {
+  background-color: #eeffff;
+  border: 1px solid gray;
+  width: 30%;
+}
+
+@media (max-width: 700px) {
+  section {
+    flex-direction: column;
+  }
+
+  p {
+    width: 100%;
+  }
+}
