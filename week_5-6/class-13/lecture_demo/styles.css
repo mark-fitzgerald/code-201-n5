@@ -1,0 +1,32 @@
+nav {
+  border-right: 1px solid blue;
+}
+
+aside {
+  border-left: 1px solid blue;
+}
+
+header {
+  background: linear-gradient(#555555, white);
+}
+
+h1 {
+  text-align: center;
+}
+
+header h1 {
+  color: white;
+  text-shadow: 0 0 3px black;
+  animation: showHeader 1.5s linear;
+}
+
+nav li {
+  font-weight: bold;
+  transition: all 0.25s;
+}
+
+nav li:hover {
+  background-color: #aaaaff;
+  padding-left: 16px;
+  transition: background-color 0.5s, padding 0.5s 0.25s;
+}
